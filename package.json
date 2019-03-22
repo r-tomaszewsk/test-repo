@@ -1,5 +1,5 @@
 {
-  "name": "test001",
+  "name": "test-repo",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/r-tomaszewsk/test001.git"
+    "url": "git+https://github.com/r-tomaszewsk/test-repo.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/r-tomaszewsk/test001/issues"
+    "url": "https://github.com/r-tomaszewsk/test-repo/issues"
   },
-  "homepage": "https://github.com/r-tomaszewsk/test001#readme",
+  "homepage": "https://github.com/r-tomaszewsk/test-repo#readme",
   "devDependencies": {
     "gulp": "^4.0.0"
   }
