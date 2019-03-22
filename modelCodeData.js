@@ -7,7 +7,7 @@ window.app.modelCodeData = {
         tokenMap: {
             'Q': 'QLED TV',
             'U': 'LED',
-            'P': 'PLAZMA',
+            'P': 'PLASMA',
             'L': 'LCD',
             'H': 'DLP',
             'K': 'OLED'
@@ -51,7 +51,7 @@ window.app.modelCodeData = {
         tokenMap: {
             'S': 'SUHD',
             'U': 'UHD',
-            'P': 'PLAZMA'
+            'P': 'PLASMA'
         }
     },
     screenType: {
