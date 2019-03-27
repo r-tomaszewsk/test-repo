@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>TV Model Code</title>
+    <style>
+        button {
+            display: inline-block;
+            margin: 50px;
+            padding: 50px;
+        }
+        .hidden {
+            display: none;
+        }
+        .active {
+            background-color: orange;
+        }
+    </style>
+</head>
+<body>
+
+    <button tabindex="0" class="hidden">A</button>
+    <button tabindex="1" class="hidden">B</button>
+    <button tabindex="2" class="hidden">C</button>
+
+    <button disabled="disabled">Not active</button>
+
+    <button tabindex="3" class="hidden">D</button>
+    <button tabindex="4" class="hidden">E</button>
+
+    <button disabled="disabled">Not active</button>
+
+    <button tabindex="5" class="hidden">F</button>
+    <button tabindex="6" class="hidden">G</button>
+    <button tabindex="7" class="hidden">H</button>
+    <button tabindex="8" class="hidden">I</button>
+    <button tabindex="9" disabled="disabled">J</button>
+    <button tabindex="10" disabled="disabled">K</button>
+    <button tabindex="11" class="hidden">L</button>
+    <button tabindex="12" class="hidden">M</button>
+
+    <script src="nav.js"></script>
+    <script src="main.js"></script>
+</body>
+</html>
